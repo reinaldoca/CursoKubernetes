@@ -2,7 +2,7 @@
 
 Curso de introducción a Kubernetes que presenta de forma práctica los componentes principales y las operaciones más habituales
 
-[Tutorial](https://ualmtorres.github.io/SeminarioKubernetes/)
+[Tutorial](https://reinaldoca.github.io/SeminarioKubernetes/)
 
 [Slides (No disponibles aún)]()
 
