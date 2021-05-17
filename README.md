@@ -6,6 +6,7 @@ Curso de introducción a Kubernetes que presenta de forma práctica los componen
 
 [Tutorial 2](https://ualmtorres.github.io/SeminarioKubernetes/)
 
+[Tutorial 3](https://reinaldoca.github.io/Kubernetes101/)
 
 [Slides (No disponibles aún)]()
 
